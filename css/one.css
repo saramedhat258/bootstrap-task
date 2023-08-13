@@ -1,0 +1,20 @@
+header{
+    min-height: 100vh;
+    background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../images/pexels-maksim-goncharenok-4352247.jpg);
+    background-position: center;
+    background-size: cover;
+}
+*{
+    font-family: 'Oswald', sans-serif;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+#newarr div{
+    margin-bottom: -200px;
+}
+#login{
+    background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../images/login.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
